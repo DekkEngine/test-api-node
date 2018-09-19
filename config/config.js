@@ -1,0 +1,1 @@
+module.exports.SEED = '@my-password-is-very-hard@';
